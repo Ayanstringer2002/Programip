@@ -1,3 +1,4 @@
+// reminderService.js
 const nodemailer = require('nodemailer');
 
 const sendNotification = (email, contest) => {
